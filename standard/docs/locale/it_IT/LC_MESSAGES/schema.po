@@ -645,13 +645,13 @@ msgstr "Contratti"
 msgid ""
 "Information from the contract creation phase of the procurement process."
 msgstr ""
-"Informazioni dalla fase di creazione del contratto del processo di "
-"approvvigionamento."
+"Informazioni sul processo di acquisto o appalto dalla fase di creazione del "
+"contratto."
 
 #. /properties/language/title
 #: standard/schema/release-schema.json:1
 msgid "Release language"
-msgstr "Rilasciare la lingua"
+msgstr "Lingua dei rilasci"
 
 #. /properties/language/description
 #: standard/schema/release-schema.json:1
@@ -680,12 +680,12 @@ msgid ""
 "competitions to their parent frameworks, full tenders to a pre-qualification"
 " phase, or individual tenders to a broad planning process."
 msgstr ""
-"Se questo processo segue uno o più processi precedenti, rappresentati sotto "
-"un identificatore di contratto aperto separato (ocid), i dettagli del "
-"processo correlato possono essere forniti qui. Questo è comunemente usato "
-"per mettere in relazione le mini-competizioni con i loro quadri principali, "
-"le offerte complete per una fase di prequalificazione o le singole offerte "
-"per un ampio processo di pianificazione."
+"Se questo processo segue ad uno o più processi precedenti, rappresentati "
+"sotto un identificatore di contratto aperto separato (ocid), i dettagli di "
+"tali processi correlati possono essere specificati qui. Questo di norma "
+"viene usato per mettere in relazione le mini-gare con gli accordi-quadro, le"
+" offerte complete per una fase di pre-qualificazione o le singole offerte "
+"all'interno di un ampio processo di pianificazione degli acquisti."
 
 #. /properties/relatedProcesses/title
 #. /definitions/Contract/properties/relatedProcesses/title
@@ -701,16 +701,17 @@ msgid ""
 "fields in other schema sections, these would likely be estimates at this "
 "stage e.g. totalValue in tender"
 msgstr ""
-"Informazioni dalla fase di pianificazione del processo di aggiudicazione. Si"
-" noti che molti altri campi possono essere compilati in una release di "
-"pianificazione, nei campi appropriati in altre sezioni dello schema, queste "
-"sarebbero probabilmente stime in questa fase, ad es. valore totale in gara"
+"Informazioni dalla fase di pianificazione del processo di acquisto o "
+"appalto. Si noti che molti altri campi possono essere compilati in un "
+"rilascio per un procedimento nella fase di pianificazione, in appositi  "
+"campi in altre sezioni dello schema, questi saranno probabilmente stime in "
+"questa fase, ad es. valore totale della gara"
 
 #. /definitions/Planning/properties/rationale/title
 #. /definitions/Amendment/properties/rationale/title
 #: standard/schema/release-schema.json:1
 msgid "Rationale"
-msgstr "Fondamento logico"
+msgstr "Causale"
 
 #. /definitions/Planning/properties/rationale/description
 #: standard/schema/release-schema.json:1
@@ -718,8 +719,9 @@ msgid ""
 "The rationale for the procurement provided in free text. More detail can be "
 "provided in an attached document."
 msgstr ""
-"La motivazione per l'approvvigionamento fornito in testo libero. Maggiori "
-"dettagli possono essere forniti in un documento allegato."
+"La motivazione che giustifica la necessità di approvvigionamento  o di "
+"predisposizione di un appalto che viene fornito come testo libero. Maggiori "
+"dettagli possono essere forniti in un eventuale documento allegato."
 
 #. /definitions/Planning/properties/budget/title
 #: standard/schema/release-schema.json:1
@@ -729,7 +731,8 @@ msgstr "Bilancio"
 #. /definitions/Planning/properties/budget/description
 #: standard/schema/release-schema.json:1
 msgid "Details of the budget that funds this contracting process."
-msgstr "Dettagli del budget che finanzia questa procedura di aggiudicazione."
+msgstr ""
+"Dettagli del budget che finanzia questa procedura di acquisto o appalto."
 
 #. /definitions/Planning/properties/documents/title
 #. /definitions/Tender/properties/documents/title
@@ -749,12 +752,12 @@ msgstr "Un elenco di documenti relativi al processo di pianificazione."
 #. /definitions/Planning/properties/milestones/title
 #: standard/schema/release-schema.json:1
 msgid "Planning milestones"
-msgstr "Pianificazione delle tappe"
+msgstr "Pianificazione degli istanti chiave (milestone) del processo"
 
 #. /definitions/Planning/properties/milestones/description
 #: standard/schema/release-schema.json:1
 msgid "A list of milestones associated with the planning stage."
-msgstr "Un elenco di pietre miliari associate alla fase di pianificazione."
+msgstr "Un elenco degli istanti chiave associati alla fase di pianificazione."
 
 #. /definitions/Tender/description
 #: standard/schema/release-schema.json:1
@@ -763,8 +766,8 @@ msgid ""
 " submit bids for evaluation and selecting a winner or winners."
 msgstr ""
 "Dati relativi al processo di gara - invitano pubblicamente potenziali "
-"contraenti a presentare offerte per la valutazione e la selezione di un "
-"vincitore o di un vincitore."
+"contraenti a presentare offerte per la valutazione e la selezione di uno o "
+"più vincitori."
 
 #. /definitions/Tender/properties/id/title
 #: standard/schema/release-schema.json:1
@@ -777,13 +780,14 @@ msgid ""
 "An identifier for this tender process. This may be the same as the ocid, or "
 "may be drawn from an internally held identifier for this tender."
 msgstr ""
-"Un identificatore per questo processo di gara. Questo può essere lo stesso "
-"di Ocid o può essere estratto da un identificatore interno per questa gara."
+"Un identificatore univoco per questo processo di gara. Questo può essere lo "
+"stesso di ocid o può essere estratto da un identificatore interno per questa"
+" gara."
 
 #. /definitions/Tender/properties/title/title
 #: standard/schema/release-schema.json:1
 msgid "Tender title"
-msgstr "Titolo di gara"
+msgstr "Titolo della gara"
 
 #. /definitions/Tender/properties/title/description
 #: standard/schema/release-schema.json:1
@@ -792,9 +796,9 @@ msgid ""
 "headline to attract interest, and to help analysts understand the nature of "
 "this procurement."
 msgstr ""
-"Un titolo per questa gara. Questo sarà spesso utilizzato dalle applicazioni "
-"come titolo per attrarre interesse e per aiutare gli analisti a capire la "
-"natura di questo appalto."
+"Un titolo breve per questa gara. Questo sarà spesso utilizzato dalle "
+"applicazioni come titolo per attrarre interesse e per aiutare gli analisti a"
+" capire la natura di questo appalto."
 
 #. /definitions/Tender/properties/description/title
 #: standard/schema/release-schema.json:1
