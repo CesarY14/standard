@@ -105,7 +105,7 @@ msgstr ""
 "La comunità Open Contracting è anche una buona fonte di informazioni e di "
 "supporto. Puoi porre domande, discutere idee per utilizzare lo standard e "
 "condividere notizie sui tuoi progetti su [standard-discuss@open-"
-"contracting.org] (https://groups.google.com/a/open-"
+"contracting.org](https://groups.google.com/a/open-"
 "contracting.org/forum/#!forum/standard-discuss)."
 
 #: ../../standard/docs/en/support/index.md:38

@@ -40,7 +40,7 @@ msgid ""
 msgstr ""
 "È possibile visualizzare una versione interattiva dello schema del "
 "descrittore qui sotto (richiede JavaScript) o [scaricare qui questa versione"
-" dello schema] (../../../../record-package-schema.json)."
+" dello schema](../../../../record-package-schema.json)."
 
 #: ../../standard/docs/en/schema/record_package.md:7
 msgid ""

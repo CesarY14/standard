@@ -93,8 +93,8 @@ msgid ""
 "Publish your data on the web using the [publication "
 "patterns](publication_patterns.md)"
 msgstr ""
-"Pubblica i tuoi dati sul Web utilizzando i [modelli di pubblicazione] "
-"(publication_patterns.md)"
+"Pubblica i tuoi dati sul Web utilizzando i [modelli di "
+"pubblicazione](publication_patterns.md)"
 
 #: ../../standard/docs/en/getting_started/index.md:16
 msgid "Check the [validation of your data](validation.md)"

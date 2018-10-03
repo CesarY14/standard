@@ -32,7 +32,7 @@ msgstr ""
 "Lo schema di rilascio anche detto versione fornisce la definizione ufficiale"
 " dei campi e della loro struttura. È possibile visualizzare una versione "
 "interattiva dello schema di rilascio di seguito (richiede JavaScript) o "
-"[scaricare questa versione dello schema qui] (../../../../ release-"
+"[scaricare questa versione dello schema qui](../../../../ release-"
 "schema.json)."
 
 #: ../../standard/docs/en/schema/release.md:5
