@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 11:40-0500\n"
+"POT-Creation-Date: 2018-04-22 20:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Ben Webb <ben.webb@opendataservices.coop>, 2017\n"
 "Language-Team: French (https://www.transifex.com/OpenDataServices/teams/59224/fr/)\n"
@@ -128,133 +128,78 @@ msgstr ""
 "d'instance](release_package.md). Le paquet d'instance fournit des "
 "métadonnées à propos de la ou des instance(s) qu'il contient."
 
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Title"
 msgstr "Titre"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Description"
 msgstr "Description"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Type"
 msgstr "Type"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Format"
 msgstr "Format"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1 ../../sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Required"
 msgstr "Nécessaire"
 
@@ -288,15 +233,15 @@ msgstr ""
 "Toute nouvelle information concernant un processus de passation de marché "
 "est décrite dans une instance."
 
-#: ../../standard/extension_list_release:0
+#: ../../extension_list_release:0
 msgid "The following extensions are available for release"
 msgstr "Les extensions suivantes sont disponibles pour les instances"
 
-#: ../../standard/extension_list_release:20
+#: ../../extension_list_release:20
 msgid "Process level title and description"
 msgstr "Titre et description au niveau du processus"
 
-#: ../../standard/extension_list_release:20
+#: ../../extension_list_release:20
 msgid ""
 "For providing overall process titles and descriptions, often to give a free-"
 "text summary of the contracting process as a whole."
@@ -305,20 +250,13 @@ msgstr ""
 " souvent pour donner un résumé en texte libre du processus de passation de "
 "marchés dans son ensemble."
 
-#: ../../standard/extension_list_release:28
-#: ../../standard/extension_list_parties:28
-#: ../../standard/extension_list_planning:28
-#: ../../standard/extension_list_budget:28
-#: ../../standard/extension_list_tender:28
-#: ../../standard/extension_list_bids:28
-#: ../../standard/extension_list_award:28
-#: ../../standard/extension_list_contract:28
-#: ../../standard/extension_list_implementation:28
-#: ../../standard/extension_list_document:28
-#: ../../standard/extension_list_period:28
-#: ../../standard/extension_list_item:28
-#: ../../standard/extension_list_milestones:28
-#: ../../standard/extension_list_value:28
+#: ../../extension_list_release:28 ../../extension_list_parties:28
+#: ../../extension_list_planning:28 ../../extension_list_budget:28
+#: ../../extension_list_tender:28 ../../extension_list_bids:28
+#: ../../extension_list_award:28 ../../extension_list_contract:28
+#: ../../extension_list_implementation:28 ../../extension_list_document:28
+#: ../../extension_list_period:28 ../../extension_list_item:28
+#: ../../extension_list_milestones:28 ../../extension_list_value:28
 msgid ""
 "The following are community extensions and are not maintained by Open "
 "Contracting Partnership."
@@ -391,7 +329,7 @@ msgstr ""
 "ou plusieurs [extensions de détail des "
 "parties](../../../extensions/party_details/)."
 
-#: ../../standard/extension_list_parties:0
+#: ../../extension_list_parties:0
 msgid "The following extensions are available for parties"
 msgstr "Les extensions suivantes sont disponibles pour les parties"
 
@@ -413,7 +351,7 @@ msgstr ""
 "Les documents sur le contexte tels qu'une étude de besoins, une étude de "
 "faisabilité ou un plan du projet peuvent être inclus dans cette section."
 
-#: ../../standard/extension_list_planning:0
+#: ../../extension_list_planning:0
 msgid "The following extensions are available for planning"
 msgstr "Les extensions suivantes sont disponibles pour la planification"
 
@@ -444,7 +382,7 @@ msgstr ""
 msgid "Budget"
 msgstr "Budget"
 
-#: ../../standard/extension_list_budget:0
+#: ../../extension_list_budget:0
 msgid "The following extensions are available for budget"
 msgstr "Les extensions suivantes sont disponibles pour le budget"
 
@@ -474,17 +412,17 @@ msgstr ""
 "utilisée pour enregistrer les détails d'un processus d'appel d'offres "
 "terminé, y compris les détails des offres reçues."
 
-#: ../../standard/extension_list_tender:0
+#: ../../extension_list_tender:0
 msgid "The following extensions are available for the tender section"
 msgstr ""
 "Les extensions suivantes sont disponibles pour la section sur l'appel "
 "d'offres"
 
-#: ../../standard/extension_list_tender:9
+#: ../../extension_list_tender:9
 msgid "Enquiries"
 msgstr "Questions"
 
-#: ../../standard/extension_list_tender:9
+#: ../../extension_list_tender:9
 msgid ""
 "The enquiries extension can be used to record questions raised during a "
 "contracting process, and the answers provided."
@@ -493,11 +431,11 @@ msgstr ""
 "soulevées lors d'un processus de passation de marchés et les réponses "
 "fournies."
 
-#: ../../standard/extension_list_tender:13
+#: ../../extension_list_tender:13
 msgid "Lots"
 msgstr "Lots"
 
-#: ../../standard/extension_list_tender:13
+#: ../../extension_list_tender:13
 msgid ""
 "A tender process may be divided into lots, where bidders can bid on one or "
 "more lots. Details of each lot can be provided here. Items, documents and "
@@ -513,11 +451,11 @@ msgstr ""
 "`relatedLot` n'est donné, les valeurs doivent être interprétées comme "
 "applicables à l'ensemble de l'appel d'offres."
 
-#: ../../standard/extension_list_tender:16
+#: ../../extension_list_tender:16
 msgid "Participation Fees"
 msgstr "Frais de participation"
 
-#: ../../standard/extension_list_tender:16
+#: ../../extension_list_tender:16
 msgid ""
 "Where a tender process involves payment of fees to access documents, submit "
 "a proposal, or be awarded a contract, this extension can be used to provide "
@@ -532,7 +470,7 @@ msgstr ""
 msgid "Bids"
 msgstr "Offres"
 
-#: ../../standard/extension_list_bids:0
+#: ../../extension_list_bids:0
 msgid ""
 "The optional bids extension can be used to provide summary and detailed "
 "information about bids."
@@ -540,11 +478,11 @@ msgstr ""
 "L'extension optionnelle offres peut être utilisée pour fournir des "
 "informations résumées et détaillées sur les offres."
 
-#: ../../standard/extension_list_bids:2
+#: ../../extension_list_bids:2
 msgid "Bid statistics and details"
 msgstr "Statistiques et détails des offres"
 
-#: ../../standard/extension_list_bids:2
+#: ../../extension_list_bids:2
 msgid ""
 "Allowing bid statistics, and detailed bid information to be represented."
 msgstr ""
@@ -568,7 +506,7 @@ msgstr ""
 "attribution connexe est requis à côté de chaque bloc de contrat, car "
 "l'attribution contient des informations sur les fournisseurs."
 
-#: ../../standard/extension_list_award:0
+#: ../../extension_list_award:0
 msgid "The following extensions are available for award"
 msgstr "Les extensions suivantes sont disponibles pour l'attribution"
 
@@ -591,7 +529,7 @@ msgstr ""
 "section sur l'attribution. Les détails sur les contrats-cadre qui figurent "
 "ci-dessous peuvent aider à en illustrer les raisons."
 
-#: ../../standard/extension_list_contract:0
+#: ../../extension_list_contract:0
 msgid "The following extensions are available for contracts"
 msgstr "Les extensions suivantes sont disponibles pour les contrats"
 
@@ -610,7 +548,7 @@ msgstr ""
 "rapportent. Les composants sur l'exécution comprennent les éléments suivants"
 " :"
 
-#: ../../standard/extension_list_implementation:0
+#: ../../extension_list_implementation:0
 msgid "The following extensions are available for implementation"
 msgstr "Les extensions suivantes sont disponibles pour l'exécution du marché"
 
@@ -892,7 +830,7 @@ msgstr ""
 "Ce composant est également utilisé pour référencer les mentions légales, qui"
 " devraient avoir un `documentType` avec la valeur \"notice\"."
 
-#: ../../standard/extension_list_document:0
+#: ../../extension_list_document:0
 msgid "The following extensions are available for document"
 msgstr "Les extensions suivantes sont disponibles pour les documents"
 
@@ -920,7 +858,7 @@ msgstr ""
 "date de fin maximale de cette période ou la dernière date jusqu'à laquelle "
 "la période pourrait être prolongée, sans modification."
 
-#: ../../standard/extension_list_period:0
+#: ../../extension_list_period:0
 msgid "The following extensions are available for period"
 msgstr "Les extensions suivantes sont disponibles pour la période"
 
@@ -1050,16 +988,15 @@ msgstr ""
 "postes de dépense associés à l'offre (`tender`), l'attribution (`award`) ou "
 "au contrat (`contract`). "
 
-#: ../../standard/extension_list_item:0
+#: ../../extension_list_item:0
 msgid "These are extensions related to Items."
 msgstr "Voici les extensions liées aux biens et services achetés."
 
-#: ../../standard/extension_list_item:12
-#: ../../standard/docs/en/schema/reference.md:0
+#: ../../extension_list_item:12 ../../standard/docs/en/schema/reference.md:0
 msgid "Location"
 msgstr "Localisation"
 
-#: ../../standard/extension_list_item:12
+#: ../../extension_list_item:12
 msgid ""
 "Allow the point of delivery for a given item or the site of works to be "
 "completed to be indicated in both the tender, award and contract stage."
@@ -1123,15 +1060,15 @@ msgstr ""
 "la révision de la progression d'un étape, et le champ `status` (statut) doit"
 " être soit mis à jour, soit confirmé."
 
-#: ../../standard/extension_list_milestones:0
+#: ../../extension_list_milestones:0
 msgid "The following extensions to milestone are available"
 msgstr "Les extensions suivantes sont disponibles pour les étapes"
 
-#: ../../standard/extension_list_milestones:15
+#: ../../extension_list_milestones:15
 msgid "Milestone documents"
 msgstr "Documents de l'étape"
 
-#: ../../standard/extension_list_milestones:15
+#: ../../extension_list_milestones:15
 msgid ""
 "Documents at the milestone level were deprecated in OCDS 1.1. This extension"
 " re-introduces the ability to attach documents to each individual milestone."
@@ -1157,7 +1094,7 @@ msgstr ""
 "Il est possible d'inclure des taux de change et des informations fiscales en"
 " utilisant des extensions."
 
-#: ../../standard/extension_list_value:0
+#: ../../extension_list_value:0
 msgid "The following extensions for value are available"
 msgstr "Les extensions suivantes sont disponibles pour la valeur du marché"
 

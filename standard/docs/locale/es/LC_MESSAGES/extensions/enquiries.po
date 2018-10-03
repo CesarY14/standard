@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 11:40-0500\n"
+"POT-Creation-Date: 2018-04-22 20:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: James McKinney <jmckinney@open-contracting.org>, 2018\n"
 "Language-Team: Spanish (https://www.transifex.com/OpenDataServices/teams/59224/es/)\n"
@@ -194,39 +194,38 @@ msgstr ""
 msgid "Reference"
 msgstr "Referencia"
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "Field"
 msgstr "Campo"
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "Definition"
 msgstr "Definición"
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "Description"
 msgstr "Descripción"
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "Type"
 msgstr "Tipo"
 
-#: ../../standard/Extension enquiries:1 ../../standard/Extension enquiries:1
-#: ../../standard/Extension enquiries:1 ../../standard/Extension enquiries:1
-#: ../../standard/Extension enquiries:1 ../../standard/Extension enquiries:1
-#: ../../standard/Extension enquiries:1 ../../standard/Extension enquiries:1
-#: ../../standard/Extension enquiries:1 ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1 ../../Extension enquiries:1 ../../Extension
+#: enquiries:1 ../../Extension enquiries:1 ../../Extension enquiries:1
+#: ../../Extension enquiries:1 ../../Extension enquiries:1 ../../Extension
+#: enquiries:1 ../../Extension enquiries:1 ../../Extension enquiries:1
 msgid "Enquiry"
 msgstr "Consulta"
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "A unique identifier for the enquiry."
 msgstr "Un identificador único para la consulta."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "The date the enquiry was received or processed."
 msgstr "La fecha en que se recibió o procesó la consulta."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid ""
 "The identifier and name of the party asking this question. Questioners may "
 "be listed in the parties array with a role of 'enquirer'. Procurement "
@@ -244,23 +243,23 @@ msgstr ""
 "solicitante de la información, deje la sección de autor en blanco. Los "
 "sistemas deberían de interpretar esta como una pregunta anónima."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "The subject line of the question."
 msgstr "La línea de asunto de la pregunta."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "The body of the question."
 msgstr "El cuerpo de la pregunta."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "The answer to this question, when available."
 msgstr "La respuesta a esta pregunta, cuando esté disponible."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid "The date the answer to the question was provided."
 msgstr "La fecha en que se proporcionó la respuesta a la pregunta."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid ""
 "If this question relates to a specific line-item, this field contains the "
 "line-item identifier."
@@ -268,7 +267,7 @@ msgstr ""
 "Si esta pregunta se refiere a una partida presupuestaria en específico, este"
 " campo contiene el identificador de la partida."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid ""
 "Where lots are used, if this question relates to a specific lot, this field "
 "contains the lot identifier."
@@ -276,7 +275,7 @@ msgstr ""
 "Cuando se usan lotes, si esta pregunta se refiere a un lote específico, este"
 " campo contiene el identificador de lote."
 
-#: ../../standard/Extension enquiries:1
+#: ../../Extension enquiries:1
 msgid ""
 "If this question and answer forms part of a discussion thread (e.g. the "
 "question is a follow up to a previous answer) an optional thread identifier "

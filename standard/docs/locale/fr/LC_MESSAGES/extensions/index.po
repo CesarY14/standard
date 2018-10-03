@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 11:40-0500\n"
+"POT-Creation-Date: 2018-04-22 20:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: James McKinney <jmckinney@open-contracting.org>, 2018\n"
 "Language-Team: French (https://www.transifex.com/OpenDataServices/teams/59224/fr/)\n"
@@ -112,23 +112,23 @@ msgstr ""
 msgid "Core extensions"
 msgstr "Extensions de base"
 
-#: ../../standard/Extension registry:1 ../../standard/Extension registry:1
+#: ../../Extension registry:1 ../../Extension registry:1
 msgid "Extension"
 msgstr "Extension"
 
-#: ../../standard/Extension registry:1 ../../standard/Extension registry:1
+#: ../../Extension registry:1 ../../Extension registry:1
 msgid "Description"
 msgstr "Description"
 
-#: ../../standard/Extension registry:1 ../../standard/Extension registry:1
+#: ../../Extension registry:1 ../../Extension registry:1
 msgid "Category"
 msgstr "Catégorie"
 
-#: ../../standard/Extension registry:1 ../../standard/Extension registry:1
+#: ../../Extension registry:1 ../../Extension registry:1
 msgid "Extension URL"
 msgstr "URL de l'extension"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Bid statistics and details::http://standard.open-"
 "contracting.org/1.1/en/extensions/bids/"
@@ -136,14 +136,14 @@ msgstr ""
 "Statistiques et détails sur les offres::http://standard.open-"
 "contracting.org/1.1/fr/extensions/bids/"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Allowing bid statistics, and detailed bid information to be represented."
 msgstr ""
 "Permet de représenter des statistiques et des informations détaillées sur "
 "les offres. "
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_bid_extension/v1.1.3/extension.json"
@@ -151,13 +151,13 @@ msgstr ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_bid_extension/v1.1.3/extension.json"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Enquiries::http://standard.open-contracting.org/1.1/en/extensions/enquiries/"
 msgstr ""
 "Échanges::http://standard.open-contracting.org/1.1/fr/extensions/enquiries/"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "The enquiries extension can be used to record questions raised during a "
 "contracting process, and the answers provided."
@@ -166,7 +166,7 @@ msgstr ""
 "questions soulevées et les réponses obtenues pendant un processus de "
 "passation de marché.  "
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_enquiry_extension/v1.1.3/extension.json"
@@ -174,14 +174,14 @@ msgstr ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_enquiry_extension/v1.1.3/extension.json"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Location::http://standard.open-contracting.org/1.1/en/extensions/location/"
 msgstr ""
 "Localisation::http://standard.open-"
 "contracting.org/1.1/fr/extensions/location/"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Allow the point of delivery for a given item or the site of works to be "
 "completed to be indicated in both the tender, award and contract stage."
@@ -190,7 +190,7 @@ msgstr ""
 "doivent être réalisés aux étapes de l'appel d'offre, de l'attribution et de "
 "la contractualisation. "
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_location_extension/v1.1.3/extension.json"
@@ -198,11 +198,11 @@ msgstr ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_location_extension/v1.1.3/extension.json"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid "Lots::http://standard.open-contracting.org/1.1/en/extensions/lots/"
 msgstr "Lots::http://standard.open-contracting.org/1.1/fr/extensions/lots/"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "A tender process may be divided into lots, where bidders can bid on one or "
 "more lots. Details of each lot can be provided here. Items, documents and "
@@ -218,7 +218,7 @@ msgstr ""
 "donné, les valeurs doivent être interprétées comme applicables à tout "
 "l'appel d'offre."
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_lots_extension/v1.1.3/extension.json"
@@ -226,7 +226,7 @@ msgstr ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_lots_extension/v1.1.3/extension.json"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Milestone documents::http://standard.open-"
 "contracting.org/1.1/en/extensions/milestone_documents/"
@@ -234,7 +234,7 @@ msgstr ""
 "Documents d'étape::http://standard.open-"
 "contracting.org/1.1/fr/extensions/milestone_documents/"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Documents at the milestone level were deprecated in OCDS 1.1. This extension"
 " re-introduces the ability to attach documents to each individual milestone."
@@ -243,7 +243,7 @@ msgstr ""
 "extension réintroduit la possibilité d'attacher des documents à chaque "
 "étape. "
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_milestone_documents_extension/v1.1.3/extension.json"
@@ -251,7 +251,7 @@ msgstr ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_milestone_documents_extension/v1.1.3/extension.json"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Participation Fees::http://standard.open-"
 "contracting.org/1.1/en/extensions/participation_fee/"
@@ -259,7 +259,7 @@ msgstr ""
 "Frais de participation::http://standard.open-"
 "contracting.org/1.1/en/extensions/participation_fee/"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Where a tender process involves payment of fees to access documents, submit "
 "a proposal, or be awarded a contract, this extension can be used to provide "
@@ -270,7 +270,7 @@ msgstr ""
 "marché, cette extension peut être utilisée pour fournir des détails sur les "
 "frais."
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_participationFee_extension/v1.1.3/extension.json"
@@ -278,7 +278,7 @@ msgstr ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_participationFee_extension/v1.1.3/extension.json"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "Process level title and description::http://standard.open-"
 "contracting.org/1.1/en/extensions/process_title/"
@@ -286,7 +286,7 @@ msgstr ""
 "Titre et description du processus::http://standard.open-"
 "contracting.org/1.1/fr/extensions/process_title/"
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "For providing overall process titles and descriptions, often to give a free-"
 "text summary of the contracting process as a whole."
@@ -295,7 +295,7 @@ msgstr ""
 " donner un résumé en texte libre pour l'ensemble du processus de passation "
 "de marché. "
 
-#: ../../standard/Extension registry:1
+#: ../../Extension registry:1
 msgid ""
 "https://raw.githubusercontent.com/open-"
 "contracting/ocds_process_title_extension/v1.1.3/extension.json"

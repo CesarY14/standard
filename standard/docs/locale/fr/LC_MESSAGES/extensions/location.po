@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 11:40-0500\n"
+"POT-Creation-Date: 2018-04-22 20:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Joel Gombin <joel.gombin@gmail.com>, 2018\n"
 "Language-Team: French (https://www.transifex.com/OpenDataServices/teams/59224/fr/)\n"
@@ -88,30 +88,30 @@ msgstr ""
 msgid "Schema reference"
 msgstr "Documentation du schéma"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Field"
 msgstr "Champ"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Definition"
 msgstr "Définition"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Description"
 msgstr "Description"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Type"
 msgstr "Type"
 
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
+#: ../../Extension location:1 ../../Extension location:1 ../../Extension
+#: location:1 ../../Extension location:1 ../../Extension location:1
+#: ../../Extension location:1 ../../Extension location:1 ../../Extension
+#: location:1
 msgid "Location"
 msgstr "Localisation"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "A name or description of this location. This might include the name(s) of "
 "the location(s), or might provide a human readable description of the "
@@ -122,7 +122,7 @@ msgstr ""
 "l'utilisateur de l'emplacement à couvrir. Cette description peut être "
 "utilisée dans une interface utilisateur."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "The type of `GeoJSON Geometry Objects <http://geojson.org/geojson-spec.html"
 "#geometry-objects>`__ being provided. To provide latitude and longitude use "
@@ -137,7 +137,7 @@ msgstr ""
 "capitalisation des valeurs de type pour maintenir la compatibilité avec "
 "geoJSON."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "The relevant array of points, e.g. [latitude,longitude], or nested array, "
 "for the GeoJSON geometry being described. The longitude and latitude MUST be"
@@ -148,7 +148,7 @@ msgstr ""
 "DOIVENT être exprimées en degrés décimaux dans la projection WGS84 (EPSG: "
 "4326)"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "We follow the `GeoJSON standard <http://geojson.org/>`__ to express basic "
 "location information, using latitude and longitude values in the `WGS84 "
@@ -167,7 +167,7 @@ msgstr ""
 "polygone qui n'est pas contenu dans une nomenclature connue, un polygone et "
 "un polygone multiple peuvent être utilisés."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "The entry of the selected gazetteer in the gazetteers codelist. The codelist"
 " provides details of services, where available, that can resolve a gazetteer"
@@ -178,14 +178,14 @@ msgstr ""
 " les services, le cas échéant, qui peuvent faire correspondre une entrée de "
 "nomenclature pour fournir des noms de localisation."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "An array of one or more codes drawn from the gazetteer indicated in scheme."
 msgstr ""
 "Une liste d'un ou plusieurs codes tirés de la nomenclature indiquée dans le "
 "schéma."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "A gazetteer is a geographical index or directory. The specific gazetteer "
 "used should be specified in scheme, and one or more codes from that "
@@ -196,7 +196,7 @@ msgstr ""
 "schéma, et un ou plusieurs codes de cet index géographique utilisées comme "
 "identifiant."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "A URI to a further description of the activity location. This may be a human"
 " readable document with information on the location, or a machine-readable "

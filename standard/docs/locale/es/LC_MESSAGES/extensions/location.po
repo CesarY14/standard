@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 11:40-0500\n"
+"POT-Creation-Date: 2018-04-22 20:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: James McKinney <jmckinney@open-contracting.org>, 2018\n"
 "Language-Team: Spanish (https://www.transifex.com/OpenDataServices/teams/59224/es/)\n"
@@ -86,30 +86,30 @@ msgstr ""
 msgid "Schema reference"
 msgstr "Referencia de esquema"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Field"
 msgstr "Campo"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Definition"
 msgstr "Definición"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Description"
 msgstr "Descripción"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid "Type"
 msgstr "Tipo"
 
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
-#: ../../standard/Extension location:1 ../../standard/Extension location:1
+#: ../../Extension location:1 ../../Extension location:1 ../../Extension
+#: location:1 ../../Extension location:1 ../../Extension location:1
+#: ../../Extension location:1 ../../Extension location:1 ../../Extension
+#: location:1
 msgid "Location"
 msgstr "Ubicación"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "A name or description of this location. This might include the name(s) of "
 "the location(s), or might provide a human readable description of the "
@@ -120,7 +120,7 @@ msgstr ""
 "usuario de la ubicación a cubrir. Esta descripción se puede utilizar en una "
 "interfaz de usuario."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "The type of `GeoJSON Geometry Objects <http://geojson.org/geojson-spec.html"
 "#geometry-objects>`__ being provided. To provide latitude and longitude use "
@@ -135,7 +135,7 @@ msgstr ""
 "capitalización de los tipos de valores - establecidos para mantener la "
 "compatibilidad con geoJSON."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "The relevant array of points, e.g. [latitude,longitude], or nested array, "
 "for the GeoJSON geometry being described. The longitude and latitude MUST be"
@@ -145,7 +145,7 @@ msgstr ""
 "para la geometría GeoJSON descrita. La longitud y la latitud DEBEN "
 "expresarse en grados decimales en la proyección WGS84 (EPSG: 4326)"
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "We follow the `GeoJSON standard <http://geojson.org/>`__ to express basic "
 "location information, using latitude and longitude values in the `WGS84 "
@@ -164,7 +164,7 @@ msgstr ""
 "diccionario geográfico conocido, se pueden utilizar polígonos y polígonos "
 "múltiples."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "The entry of the selected gazetteer in the gazetteers codelist. The codelist"
 " provides details of services, where available, that can resolve a gazetteer"
@@ -175,14 +175,14 @@ msgstr ""
 "servicios, cuando están disponibles, que pueden resolver una entrada de un "
 "diccionario geográfico para proporcionar nombres de ubicación."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "An array of one or more codes drawn from the gazetteer indicated in scheme."
 msgstr ""
 "Una matriz de uno o más códigos extraídos del diccionario geográfico "
 "indicado en el esquema."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "A gazetteer is a geographical index or directory. The specific gazetteer "
 "used should be specified in scheme, and one or more codes from that "
@@ -192,7 +192,7 @@ msgstr ""
 "diccionario específico utilizado debe especificarse en el esquema, y ​​se "
 "deben utilizar uno o más códigos de ese diccionario en el identificador."
 
-#: ../../standard/Extension location:1
+#: ../../Extension location:1
 msgid ""
 "A URI to a further description of the activity location. This may be a human"
 " readable document with information on the location, or a machine-readable "
@@ -284,7 +284,7 @@ msgstr ""
 
 #: ../../standard/docs/en/extensions/location.md:117
 msgid "Allow `Location.geometry` and `Location.gazetteer` to be null"
-msgstr "Permitir que `Location.geometry` y` Location.gazetteer` sean null"
+msgstr "Permitir que `Location.geometry` y `Location.gazetteer` sean null"
 
 #: ../../standard/docs/en/extensions/location.md:118
 msgid "Add title and description to `Location.gazetteer`"
@@ -292,7 +292,7 @@ msgstr "Agregar título y descripción a `Location.gazetteer`"
 
 #: ../../standard/docs/en/extensions/location.md:119
 msgid "Add description to `Item.deliveryLocation`, `Item.deliveryAddress`"
-msgstr "Agregar descripción a `Item.deliveryLocation`,` Item.deliveryAddress`"
+msgstr "Agregar descripción a `Item.deliveryLocation`, `Item.deliveryAddress`"
 
 #: ../../standard/docs/en/extensions/location.md:120
 msgid "Add geometryType.csv codelist for `Location.geometry.type`"

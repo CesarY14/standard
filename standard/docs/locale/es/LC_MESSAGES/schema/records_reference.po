@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 11:40-0500\n"
+"POT-Creation-Date: 2018-04-22 20:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: James McKinney <jmckinney@open-contracting.org>, 2018\n"
 "Language-Team: Spanish (https://www.transifex.com/OpenDataServices/teams/59224/es/)\n"
@@ -104,23 +104,23 @@ msgstr "Meta-datos de un paquete"
 msgid "Records should be embedded within a record package."
 msgstr "Los registros deberían de embeberse dentro de un paquete de registros"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Title"
 msgstr "Título"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Description"
 msgstr "Descripción"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Type"
 msgstr "Tipo"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Format"
 msgstr "Formato"
 
-#: ../../standard/sphinxcontrib-jsonschema:1
+#: ../../sphinxcontrib-jsonschema:1
 msgid "Required"
 msgstr "Requerido"
 

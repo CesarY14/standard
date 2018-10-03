@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-01 11:40-0500\n"
+"POT-Creation-Date: 2018-04-22 20:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: James McKinney <jmckinney@open-contracting.org>, 2018\n"
 "Language-Team: Spanish (https://www.transifex.com/OpenDataServices/teams/59224/es/)\n"
@@ -205,29 +205,28 @@ msgstr ""
 msgid "Schema"
 msgstr "Esquema"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "Field"
 msgstr "Campo"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "Definition"
 msgstr "Definición"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "Description"
 msgstr "Descripción"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "Type"
 msgstr "Tipo"
 
-#: ../../standard/Extension lots:1 ../../standard/Extension lots:1
-#: ../../standard/Extension lots:1 ../../standard/Extension lots:1
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1 ../../Extension lots:1 ../../Extension lots:1
+#: ../../Extension lots:1 ../../Extension lots:1
 msgid "Lot"
 msgstr "Lote"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid ""
 "A local identifier for this lot, such as a lot number. This is used in "
 "relatedLots references at the item, document and award level."
@@ -236,15 +235,15 @@ msgstr ""
 "utiliza en las referencias relatedLots en el nivel de artículo, documento y "
 "adjudicación."
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "A title for this lot."
 msgstr "Un título para este lote."
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "A description of this lot."
 msgstr "Una descripción de este lote."
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid ""
 "The current status of the process related to this lot based on the "
 "`tenderStatus codelist <http://ocds.open-"
@@ -254,15 +253,15 @@ msgstr ""
 " códigos de `tenderStatus <http://ocds.open-"
 "contracting.org/standard/r/1__0__0/en/schema/codelists#tender-status>`__"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "The maximum estimated value of this lot."
 msgstr "El valor máximo estimado de este lote."
 
-#: ../../standard/Extension lots:1 ../../standard/Extension lots:1
+#: ../../Extension lots:1 ../../Extension lots:1
 msgid "LotDetails"
 msgstr "LotDetails"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid ""
 "The maximum number of lots that one supplier may bid for as part of this "
 "contracting process."
@@ -270,7 +269,7 @@ msgstr ""
 "El número máximo de lotes por los que un proveedor puede ofertar como parte "
 "de este proceso de contratación."
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid ""
 "The maximum number of lots that may be awarded to one supplier as part of "
 "this contracting process."
@@ -278,16 +277,16 @@ msgstr ""
 "El número máximo de lotes que pueden adjudicarse a un proveedor como parte "
 "de este proceso de contratación."
 
-#: ../../standard/Extension lots:1 ../../standard/Extension lots:1
-#: ../../standard/Extension lots:1 ../../standard/Extension lots:1
+#: ../../Extension lots:1 ../../Extension lots:1 ../../Extension lots:1
+#: ../../Extension lots:1
 msgid "LotGroup"
 msgstr "LotGroup"
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid "A local identifier for this group of lots."
 msgstr "Un identificador local para este grupo de lotes."
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid ""
 "A list of the identifiers of the lots that form this group. Lots may appear "
 "in more than one group."
@@ -295,7 +294,7 @@ msgstr ""
 "Una lista de los identificadores de los lotes que forman este grupo. Los "
 "lotes pueden aparecer en más de un grupo."
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid ""
 "The buyer reserves the right to combine the lots in this group when awarding"
 " a contract."
@@ -303,7 +302,7 @@ msgstr ""
 "El comprador se reserva el derecho de combinar los lotes de este grupo al "
 "adjudicar un contrato."
 
-#: ../../standard/Extension lots:1
+#: ../../Extension lots:1
 msgid ""
 "The maximum estimated value of the lots in this group. This may be lower "
 "than the sum total of lot values"
